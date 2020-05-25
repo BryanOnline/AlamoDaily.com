@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Learn HTML & CSS</title>
+<body>
+
+<div>
+    <p>Hello, <strong>Ninjas</strong></p>
+    <p>Learn HTML <small>&</small> CSS</p>
+    <a href="http://www.Alamogordo.Online">Alamogordo.Online</a>
+</div>
+
+<div>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+</div>
+
+<!-- Block out large chunks by holding ctrl + press /
+Use Comments to track and test -->
+
+
+<div>
+    <ul>
+    <li>Yoshi</li>
+    <li>Luigi</li>
+    <li>Toad</li>
+    </ul>
+</div>
+
+<!-- Span Tag Below -->
+<span>I am a <br>span tag</span>
+
+<hr>
+
+<img src="img/ninja.jpg" alt="a picture of a ninja">
+
+</body>
+</html>
